@@ -37,5 +37,7 @@ Artificial Intelligence + Machine Learning
 How To Think Like A Computer Scientist
 
 Calculus for Artists
+
 Online Linear Algebra
+
 Online Discrete Math
