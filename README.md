@@ -1,5 +1,15 @@
 # open-cs-course
 Collection of free CS courses
 
+<!---Open CS is truly open, no paywalls, straight from universities no MOOC providers that pretend to be free but aren't
 
-This is WIP
+Video Lectures / Slides
+
+
+E-Textbooks / Interactive /Classic tag
+State of the Topic
+Long Form Read
+Suggested Journals
+--->
+
+Coming soon.
