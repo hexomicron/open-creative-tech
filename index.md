@@ -1,7 +1,7 @@
 
-If you're here, you must be seeking what you're seeing. Welcome.
+If you're here, you must be seeking what you're seeing. 
 
-If you're a programmer with a creative side, an artist with a technical side, or an engineer with an eye for the visual looking 
+If you're a programmer with a creative side, an artist with a technical side, or an engineer with an eye for the visual looking to explore multidisciplinary approaches to technological solutions, or you're just plain curious -- Welcome!
 
 #### What is Creative Tech?
 
