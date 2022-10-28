@@ -10,7 +10,11 @@ If you're a programmer with a creative side, an artist with a technical side, or
 ### State of the Topic in Emerging Tech related to Creative Tech
 
 <!--computer graphics, virtual reality, augmented reality, software engineering, 3D printing, Internet of Things, CAD and wearable technology - {lenses, HMDs, sensors, bone-conductive,EEGS}, affective computing, pervasive computing
-holography, volumetric displays,  light field display, photonic displays brain computer interfacing, information systems, social information systems, human factors, design, architecture, secure interfaces, usability and security, nlp, creative AI, generative art, generative design, cv, robotics, cognitive science, XR, wetware, cybernetics-->
+holography, volumetric displays,  light field display, photonic displays brain computer interfacing, information systems, social information systems, human factors, design, architecture, secure interfaces, usability and security, nlp, creative AI, generative art, generative design, cv, robotics, cognitive science, XR, wetware, cybernetics
+
+Then add history, important people, inspo, magazines, etc
+
+-->
 
 
 
