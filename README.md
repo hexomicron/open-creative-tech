@@ -1,5 +1,5 @@
-# open-cs-course
-Collection of free CS courses
+# open-creative-tech
+Collection of resources for getting started in creative technology
 
 <!---Open CS is truly open, no paywalls, straight from universities no MOOC providers that pretend to be free but aren't
 
