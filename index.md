@@ -9,8 +9,8 @@ If you're a programmer with a creative side, an artist with a technical side, or
 
 ### State of the Topic in Emerging Tech related to Creative Tech
 
-<!--computer graphics, virtual reality, augmented reality, software engineering, 3D printing, Internet of Things, CAD and wearable technology - {lenses, HMDs, sensors, bone-conductive,EEGS}, 
-holography, volumetric displays,  light field display, photonic displays brain computer interfacing, information systems, social information systems, human factors, design, architecture, secure interfaces, usability and security-->
+<!--computer graphics, virtual reality, augmented reality, software engineering, 3D printing, Internet of Things, CAD and wearable technology - {lenses, HMDs, sensors, bone-conductive,EEGS}, affective computing, pervasive computing
+holography, volumetric displays,  light field display, photonic displays brain computer interfacing, information systems, social information systems, human factors, design, architecture, secure interfaces, usability and security, nlp, creative AI, generative art, generative design, cv, robotics, cognitive science, XR, wetware, cybernetics-->
 
 
 
@@ -23,6 +23,11 @@ holography, volumetric displays,  light field display, photonic displays brain c
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Computer Graphics: Principles and Practice](https://www.cs.ucy.ac.cy/courses/EPL426/courses/eBooks/ComputerGraphicsPrinciplesPractice.pdf)
 - [Three.js Essentials - Jos Dirksen](https://services.math.duke.edu/courses/math_everywhere/assets/techRefs/Threejs%20Essentials.pdf)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
+- [The Nature of Code](https://natureofcode.com/book/)
+- [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
+- 
+- 
 
 #### Tutorials
 - [WebGL Fundamentals](https://webglfundamentals.org/)
@@ -49,6 +54,15 @@ holography, volumetric displays,  light field display, photonic displays brain c
 
 
 ##### Courses
+
+##### Tools
+- [p5.js](https://p5js.org/)
+- [Max](https://cycling74.com/products/max)
+- [Touch Designer](https://derivative.ca/showcase)
+- [Pure Data](https://puredata.info/)
+- [Three.js](https://threejs.org/)
+- [D3.js](https://threejs.org/)
+-
 
 
 
