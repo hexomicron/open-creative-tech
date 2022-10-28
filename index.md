@@ -3,11 +3,11 @@ If you're here, you must be seeking what you're seeing.
 
 If you're a programmer with a creative side, an artist with a technical side, or an engineer with an eye for the visual looking to explore multidisciplinary approaches to technological solutions, or you're just plain curious -- Welcome!
 
-#### What is Creative Tech?
+### What is Creative Tech?
 
 
 
-#### State of the Topic in Emerging Tech related to Creative Tech
+### State of the Topic in Emerging Tech related to Creative Tech
 
 <!--computer graphics, virtual reality, augmented reality, software engineering, 3D printing, Internet of Things, CAD and wearable technology - {lenses, HMDs, sensors, bone-conductive,EEGS}, 
 holography, volumetric displays,  light field display, photonic displays brain computer interfacing, information systems, social information systems, human factors, design, architecture, secure interfaces, usability and security-->
@@ -15,9 +15,9 @@ holography, volumetric displays,  light field display, photonic displays brain c
 
 
 
-#### Pathways
+### Pathways
 
-##### Textbooks, Books
+#### Textbooks, Books
 - [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/index.html)
 - [Graphic Shaders](https://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf)
 - [The Book of Shaders](https://thebookofshaders.com/)
@@ -48,10 +48,12 @@ holography, volumetric displays,  light field display, photonic displays brain c
 - [Nand2Tetris](https://www.nand2tetris.org/course)
 
 
+##### Courses
 
-Courses
-Long Form Read
-Suggested Journals
+
+
+#### Long Form Read
+#### Suggested Journals
 
 
 
